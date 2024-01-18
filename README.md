@@ -5,7 +5,17 @@
 - 📫 How to reach me izsalafandi@gmail.com
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=izsal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=izsal&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=izsal&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=izsal&show_icons=true" />
+</picture>
 
 <!---
 izsal/izsal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
