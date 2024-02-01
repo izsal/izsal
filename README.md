@@ -31,7 +31,7 @@
     /> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=izsal&show_icons=true" /> -->
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izsal&layout=compact&theme=radical" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izsal&layout=compact&theme=radical" /> -->
 </div>
 
 <!---
