@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm izsal qurlinas afandi</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Next js, React**
+- 🌱 I’m currently Developer **Next js, React**
 
 - 📫 How to reach me **izsalafandi@gmail.com**
 
