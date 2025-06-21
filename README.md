@@ -100,9 +100,9 @@ Here are a few highlights from my portfolio:
 ---
 
 ### 🌱 Let’s Connect:
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** yourname@example.com
+- **GitHub:** [Izsal](https://github.com/izsal)
+- **LinkedIn:** [Izsal Qurlinas Afandi](https://www.linkedin.com/in/izsal-qurlinas-afandi-983614165/)
+- **Email:** izsalafandi@gmail.com
 
 ---
 
