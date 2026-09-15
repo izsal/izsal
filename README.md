@@ -10,7 +10,7 @@ I'm a passionate **Frontend Developer** with a knack for crafting intuitive and 
 
 #### Frontend:
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, React Native, Next.js, Vue.js, Tailwind CSS
+- **Frameworks/Libraries:** React, React Native, Next.js, Vue.js, Tailwind CSS, Astro, Svelte
 
 #### Backend:
 - **Languages:** Node.js, Go
